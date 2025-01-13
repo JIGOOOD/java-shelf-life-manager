@@ -1,1 +1,79 @@
-/bin/
+# 컴파일된 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# BlueJ 파일
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# 패키지 파일
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Java 가상 머신 크래시 로그
+hs_err_pid*
+replay_pid*
+
+# Maven 빌드 디렉토리
+target/
+
+# Gradle 빌드 디렉토리
+.gradle/
+build/
+
+# Eclipse 프로젝트 파일
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders/
+.project
+.classpath
+.factorypath
+
+# IntelliJ IDEA 프로젝트 파일
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# NetBeans 프로젝트 파일
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code 프로젝트 파일
+.vscode/
+
+# macOS 시스템 파일
+.DS_Store
+
+# Windows 시스템 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
