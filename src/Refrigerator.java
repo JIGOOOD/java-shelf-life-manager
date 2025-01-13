@@ -172,7 +172,7 @@ public class Refrigerator extends JFrame implements RefrigeratorFunctions{
 			arrayIngredients[size++] = temp;
 		}
 
-		// 40°³ ³Ñ¾î°¡¸é ³ª´²¼­ Ãâ·Â
+		// 40Â°Â³ Â³Ã‘Â¾Ã®Â°Â¡Â¸Ã© Â³ÂªÂ´Â²Â¼Â­ ÃƒÃ¢Â·Ã‚
 
 		JList listOfIngredients = new JList(arrayIngredients); // for storing the array as a JList
 		// Display all array values in a dialog
