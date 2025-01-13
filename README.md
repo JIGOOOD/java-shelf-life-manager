@@ -1,6 +1,10 @@
 # Shelf Life Manager
 
 ## Overview
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/2d3d07aa-5d8a-47f9-b752-c100aed4f35b" alt="Image 1" style="width: 45%; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3d4d14be-f420-4aed-8d2e-bab0087b529e" alt="Image 2" style="width: 35%;">
+</div>
 
 The **Shelf Life Manager** is a Java-based application designed to help users efficiently manage the shelf life of their ingredients. By registering purchased ingredients and their expiration dates, users can reduce food waste and receive recipe suggestions for ingredients nearing their expiration dates.
 
